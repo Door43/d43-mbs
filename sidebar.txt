@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mbs:home|Door43 (mbs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mbs|d43-mbs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mbs/archive/master.zip|d43-mbs.zip]]
+
+**Recent Changes**
+{{changes>ns = mbs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mbs|Ethnologue data]]
+
